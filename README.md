@@ -4,7 +4,7 @@ The image contain all applications with the regression, and the environment for 
 
 ## Run the image
 
-To start the environment, execute run.sh script in the database-env directory.
+To start the environment, execute run.sh script in the database-env directory. This script compile and execute the image.
 
 ## Ports
 
