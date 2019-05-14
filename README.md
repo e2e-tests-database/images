@@ -31,3 +31,7 @@ We provide a script for run and stop the applications:
 #### Stop the application
 
 `database.sh stop [webapp-1 | webapp-2 | webapp-3]`
+
+#### Logs
+
+If we run the application using the script, we can see the logs of the back-end and front-end in the folder `/home/database/logs`
